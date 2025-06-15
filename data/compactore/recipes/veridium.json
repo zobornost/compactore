@@ -1,24 +1,24 @@
 {
-    "type": "create:compacting",
-    "ingredients": [
-      {
-        "item": "create:copper_nugget"
-      },
-      {
-        "item": "create:copper_nugget"
-      },
-      {
-        "item": "minecraft:gravel"
-      },
-      {
-        "fluid": "minecraft:lava",
-        "nbt": {},
-        "amount": 8100
-      }
-    ],
-    "results": [
-      {
-        "item": "create:veridium"
-      }
-    ]
-  }
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "create:copper_nugget"
+    },
+    {
+      "item": "create:copper_nugget"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "create:veridium"
+    }
+  ]
+}

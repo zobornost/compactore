@@ -1,24 +1,24 @@
 {
-    "type": "create:compacting",
-    "ingredients": [
-      {
-        "item": "minecraft:iron_nugget"
-      },
-      {
-        "item": "minecraft:iron_nugget"
-      },
-      {
-        "item": "minecraft:gravel"
-      },
-      {
-        "fluid": "minecraft:lava",
-        "nbt": {},
-        "amount": 8100
-      }
-    ],
-    "results": [
-      {
-        "item": "create:crimsite"
-      }
-    ]
-  }
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "create:crimsite"
+    }
+  ]
+}
